@@ -1,0 +1,14 @@
+Spring boot
+============
+It is framework like spring
+It is extension of spring framework
+Developing application using spring boot is much easier than developing application using spring
+Spring boot has so many features such as
+1)Auto configuration
+2)Spring starter dependency
+3)Embeded web server.Default web server is tomcat
+4)Spring boot CLI
+5)Spring boot initializr
+6)Standalone application:Every application has main class by default
+
+We can build both web application and web api(specially RESTFul API)using spring boot
